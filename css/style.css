@@ -1,0 +1,142 @@
+.dropdown-box {
+    background-color: red;
+    color: white;
+    height: 50px;
+    padding-bottom:8px ;
+    
+}
+.news-scroll{
+    width: 550px;
+    margin-left: 400px;
+}
+.link-1{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.text-1 {
+    background-color: red;
+    color: #000000;
+    border: 1px solid white;
+    margin-left:10px ;
+    background-color: #ffffff;
+    
+}
+
+.text-2 {
+    color: #000;
+    text-decoration: none;
+}
+
+.option-1 {
+    width: 170px;
+    border: 0px;
+}
+
+.option-2 {
+    width: 150px;
+    border: 0px;
+}
+
+.option-3 {
+    width: 90px;
+    border: 0px;
+}
+
+.option-4 {
+    width: 100px;
+    border: 0px;
+}
+
+.option-5 {
+    width: 150px;
+    border: 0px;
+}
+
+.option-6 {
+    width: 120px;
+    border: 0px;
+}
+
+h2 {
+    font-size: 30px;
+    color: #343f52;
+    text-align: center;
+}
+
+.mrk-1 {
+    background-color: white;
+    color: red;
+}
+
+.text2 {
+    font-size: 40px;
+}
+
+.text-3 {
+    font-size: 16px;
+    list-style: none;
+}
+
+.text-4 {
+    font-size: 30px;
+}
+
+.mrk-2 {
+    color: #343f52;
+    background-color: white;
+}
+
+.text-5 {
+    font-size: 16px;
+    list-style: none;
+
+}
+
+.career-courses {
+    text-decoration: none;
+    color: #000;
+    font-size: 16px;
+
+}
+
+.trending-courses {
+    text-decoration: none;
+    color: black;
+
+}
+
+.infras-1 {
+    font-size: 14px;
+}
+
+.foot-h1 {
+    color: white;
+    margin-left: 50px;
+}
+
+.foot-1 {
+    background-color: #212529;
+}
+
+.list-2 {
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    font-size: 18px;
+}
+
+.list-3 {
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    font-size: 18px;
+}
+.list-5{
+    text-align: center;
+    color: #ffffff;
+    font-size: 15px;
+}
+.foot-2{
+    background-color: #262b32;
+}
